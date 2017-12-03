@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "base_sort/bubble_sort.c"
+#include "../base_sort/bubble_sort.c"
 
 int main() {
     int a[4] = {3, 2, 1, 4};
